@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ariel Cohen</h1>
-<h3 align="center">2nd year Computer Science student</h3>
+<h3 align="center">3nd year Computer Science student</h3>
 
 - 🌱 I’m currently learning **offensive security**
 
